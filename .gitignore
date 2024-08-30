@@ -110,3 +110,7 @@ back/.gradle/
 #.pem파일
 *.pem
 
+#.glb 캐릭터 파일
+*.glb
+
+
