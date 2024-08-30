@@ -107,3 +107,6 @@ Thumbs.db
 **/*.probe
 
 back/.gradle/
+#.pem파일
+*.pem
+
