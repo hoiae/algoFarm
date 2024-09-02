@@ -1,12 +1,12 @@
-### ✔알고팜(Algo Farm)  
-- 알고팜은 Algorithm(알고리즘) + Farm(농장)을 결합한 뜻으로, 귀여운 캐릭터와 상호작용하며 알고리즘 스터디의 참여율을 높이고자 합니다.
-  <img src="https://github.com/user-attachments/assets/972c20fc-0a9f-481e-b542-be99288ef9ab" alt="알고팜 로고" width="400">
+### ✔알고팜(Algo Farm)
+  <img src="https://github.com/user-attachments/assets/972c20fc-0a9f-481e-b542-be99288ef9ab" alt="알고팜 로고" width="50">    
+  알고팜은 Algorithm(알고리즘) + Farm(농장)을 결합한 뜻으로, 귀여운 캐릭터와 상호작용하며 알고리즘 스터디의 참여율을 높이고자 합니다.
+
 ---
 ## ✔기획배경
-```
-개발자 채용시장이 점차 어려워지는 만큼, 코딩테스트의 중요도가 높아지고 있지만, 
+개발자 채용시장이 점차 어려워지는 만큼, 코딩테스트의 중요도가 높아지고 있습니다. 
 지속적으로 알고리즘 문제를 푸는 것은 쉽지 않습니다.
-```
+
 ## ✔주요기능
 ### 1. 로그인 및 그룹생성  
    <img src="https://github.com/user-attachments/assets/03c35994-7aa0-4677-88a3-c86bc437a59f" alt="로그인_그룹생성" width="400">  
