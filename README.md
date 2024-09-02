@@ -9,14 +9,23 @@
 ```
 ### ✔주요기능
 로그인 및 그룹생성
-<img src="https://github.com/user-attachments/assets/aaa40f98-61b0-488e-beef-6aa4890e81e9" alt="AI코드리뷰" width="300">
+![로그인_그룹생성](https://github.com/user-attachments/assets/03c35994-7aa0-4677-88a3-c86bc437a59f)
+![그룹참가 및 스트릭조회](https://github.com/user-attachments/assets/5d1737fe-623b-47b9-b2c6-341dad8cd880)
+![문제풀이](https://github.com/user-attachments/assets/c8be84d5-085f-46c6-a17c-e6d0d97b0bea)
+![ai코드리뷰](https://github.com/user-attachments/assets/aaa40f98-61b0-488e-beef-6aa4890e81e9)
+![닉네임변경 및 채팅](https://github.com/user-attachments/assets/06712f9c-8bfe-4c21-94d0-139100fccf78)
 
-1. 캐릭터 돌아다님?
-2. 문제를 제출하면 모션을 취함.
-   채점중, 맞음, 틀림
-3. 스트릭, 기여도 조회
-4. 채팅
-5. ai코드 리뷰
+1. 로그인 및 그룹생성  
+   <img src="https://github.com/user-attachments/assets/03c35994-7aa0-4677-88a3-c86bc437a59f" alt="로그인_그룹생성">
+2. 그룹참가 및 스트릭 조회  
+   <img src="https://github.com/user-attachments/assets/5d1737fe-623b-47b9-b2c6-341dad8cd880" alt="그룹참가 및 스트릭조회">
+3. 닉네임 변경 및 채팅  
+   <img src="https://github.com/user-attachments/assets/c8be84d5-085f-46c6-a17c-e6d0d97b0bea" alt="문제풀이">
+4. 문제 풀이  
+   <img src="https://github.com/user-attachments/assets/aaa40f98-61b0-488e-beef-6aa4890e81e9" alt="ai코드리뷰">
+5. ai코드 리뷰  
+   <img src="https://github.com/user-attachments/assets/06712f9c-8bfe-4c21-94d0-139100fccf78" alt="닉네임변경 및 채팅">
+
 ### ✔기술스택
 ### ✔아키텍쳐
 
