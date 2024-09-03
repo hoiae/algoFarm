@@ -50,7 +50,25 @@
 </div>
 
 ## ✔수행업무
-| **김민지**  | **박정영**  | **이동규**  | **유태람**  | **최병주**  | **최재혁**  |
-|-------------|-------------|-------------|-------------|-------------|-------------|
-| Full-stack   | Full-stack / DevOps | Backend   | Frontend   | Frontend / AI | Full-stack   |
-
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f0f0f0;">
+      <th style="text-align: center; width: 16.66%;">김민지</th>
+      <th style="text-align: center; width: 16.66%;">박정영</th>
+      <th style="text-align: center; width: 16.66%;">이동규</th>
+      <th style="text-align: center; width: 16.66%;">유태람</th>
+      <th style="text-align: center; width: 16.66%;">최병주</th>
+      <th style="text-align: center; width: 16.66%;">최재혁</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">Full-stack</td>
+      <td style="text-align: center;">Full-stack / DevOps</td>
+      <td style="text-align: center;">Backend</td>
+      <td style="text-align: center;">Frontend</td>
+      <td style="text-align: center;">Frontend / AI</td>
+      <td style="text-align: center;">Full-stack</td>
+    </tr>
+  </tbody>
+</table>
