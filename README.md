@@ -39,5 +39,26 @@
    </div>
 
 ## ✔기술스택
+| **Category** | **Technologies**                                                                 |
+|--------------|----------------------------------------------------------------------------------|
+| 🌐 **Common**  | Google OAuth, Chrome Extension                                                   |
+| 🎨 **Front-end** | React, JavaScript, Webpack (Custom), Three.js, Stomp.js, google-generativeai (Gemini-1.5-flash), CSS Module |
+| 🛠️ **Back-end**  | Spring Boot 3.x, JPA, JWT, Swagger                                              |
+| 🚀 **DevOps**    | Jenkins, Nginx                                                                 |
+
 ## ✔아키텍쳐
+<div align="center">
+      <img src="https://github.com/user-attachments/assets/5ff75303-9ea6-4136-b10d-4997593eeea2" alt="알고팜 아키텍쳐">
+</div>
+
 ## ✔수행업무
+# 👥 Team Members & Roles
+
+| **Name** | **Responsibilities** |
+|----------|----------------------|
+| 김민지      | Full-stack           | 
+| 박정영      | Full-stack / DevOps  |
+| 이동규      | Backend              | 
+| 유태람      | Frontend             | 
+| 최병주      | Frontend / AI        | 
+| 최재혁      | Full-stack           |
