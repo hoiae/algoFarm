@@ -38,7 +38,7 @@
 
 ## ✔기술스택
 | **Category** | **Technologies**                                                                 |
-|--------------|----------------------------------------------------------------------------------|
+|----------------------|----------------------------------------------------------------------------------|
 | 🌐 **Common**  | Google OAuth, Chrome Extension                                                   |
 | 🎨 **Front-end** | React, JavaScript, Webpack (Custom), Three.js, Stomp.js, google-generativeai (Gemini-1.5-flash), CSS Module |
 | 🛠️ **Back-end**  | Spring Boot 3.x, JPA, JWT, Swagger                                              |
