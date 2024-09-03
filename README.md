@@ -50,11 +50,7 @@
 </div>
 
 ## ✔수행업무
-| **Name** | **Responsibilities** |
-|----------|----------------------|
-| 김민지      | Full-stack           | 
-| 박정영      | Full-stack / DevOps  |
-| 이동규      | Backend              | 
-| 유태람      | Frontend             | 
-| 최병주      | Frontend / AI        | 
-| 최재혁      | Full-stack           |
+| **김민지**  | **박정영**  | **이동규**  | **유태람**  | **최병주**  | **최재혁**  |
+|-------------|-------------|-------------|-------------|-------------|-------------|
+| Full-stack   | Full-stack / DevOps | Backend   | Frontend   | Frontend / AI | Full-stack   |
+
